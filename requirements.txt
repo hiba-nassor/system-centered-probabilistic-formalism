@@ -1,0 +1,7 @@
+# Python version used: 3.14.2
+
+numpy
+pandas
+matplotlib
+notebook
+ipykernel
